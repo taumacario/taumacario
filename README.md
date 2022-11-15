@@ -1,7 +1,7 @@
-### Hi there 👋  
+## Hi there 👋  
 
 
-## I'm Tauana Macário and 
+### I'm Tauana Macário and 
 
 
 - 💻 I'm Looking for a job in the moment.
